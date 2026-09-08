@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1991-find-the-middle-index-in-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
