@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3870-count-commas-in-range](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
