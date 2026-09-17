@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bubble Sort
 |  |
@@ -84,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1446-consecutive-characters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
