@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
