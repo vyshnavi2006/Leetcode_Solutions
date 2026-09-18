@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -114,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
