@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
