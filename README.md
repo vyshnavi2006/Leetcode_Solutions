@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1446-consecutive-characters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
