@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
