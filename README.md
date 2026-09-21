@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -149,4 +150,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
