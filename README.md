@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
