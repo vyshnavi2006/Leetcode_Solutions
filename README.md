@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -160,15 +161,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
