@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1446-consecutive-characters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -202,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
