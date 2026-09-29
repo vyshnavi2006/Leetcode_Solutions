@@ -179,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
