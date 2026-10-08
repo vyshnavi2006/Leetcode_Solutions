@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1446-consecutive-characters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -211,11 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
