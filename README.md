@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3174-clear-digits](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3174-clear-digits](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
