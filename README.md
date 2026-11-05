@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1550-three-consecutive-odds](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1920-build-array-from-permutation](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vyshnavi2006/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
